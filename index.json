@@ -1,0 +1,683 @@
+{
+ "version": 3,
+ "indexPages": [
+  "index.html"
+ ],
+ "redirects": [],
+ "files": [
+  {
+   "path": "index.json"
+  },
+  {
+   "path": "index.dat"
+  },
+  {
+   "path": "index.rdf"
+  },
+  {
+   "path": "history.rdf"
+  },
+  {
+   "path": "^metadata^"
+  },
+  {
+   "path": "index.html",
+   "url": "https://jup.ag/",
+   "role": "document",
+   "token": "1e96dacae9478830c85431b95955cc89e53b655c"
+  },
+  {
+   "path": "index.xhtml",
+   "role": "document"
+  },
+  {
+   "path": "index.svg",
+   "role": "document"
+  },
+  {
+   "path": "css2.css",
+   "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap",
+   "role": "css-utf-8",
+   "token": "f55273b74279e10aae5e713d827c153065559eb8"
+  },
+  {
+   "path": "UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0I5nvwUgHU.woff2",
+   "url": "https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0I5nvwUgHU.woff2",
+   "role": "resource",
+   "token": "5ccfa2b1149f65c2466a51bf2610f1530fd6d985"
+  },
+  {
+   "path": "UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0I5nvwUgHU.woff2",
+   "url": "https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0I5nvwUgHU.woff2",
+   "role": "resource",
+   "token": "6ff1c802733e5d3169919b854d2ffe4d91be5c31"
+  },
+  {
+   "path": "UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0I5nvwUgHU.woff2",
+   "url": "https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0I5nvwUgHU.woff2",
+   "role": "resource",
+   "token": "a1b9acab0234c1c2095fe74b8d03eb806ba21adc"
+  },
+  {
+   "path": "UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0I5nvwUgHU.woff2",
+   "url": "https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0I5nvwUgHU.woff2",
+   "role": "resource",
+   "token": "93a920c908052b7bab1fca06112ff74849ce4bf9"
+  },
+  {
+   "path": "UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0I5nvwUgHU.woff2",
+   "url": "https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0I5nvwUgHU.woff2",
+   "role": "resource",
+   "token": "872d4b2e7388aa03c003110353d4f6675dedd873"
+  },
+  {
+   "path": "UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0I5nvwUgHU.woff2",
+   "url": "https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0I5nvwUgHU.woff2",
+   "role": "resource",
+   "token": "841a2f7f6cc32a50173579a1fe04d7c9f5949c84"
+  },
+  {
+   "path": "UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0I5nvwU.woff2",
+   "url": "https://fonts.gstatic.com/s/inter/v19/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0I5nvwU.woff2",
+   "role": "resource",
+   "token": "da6c3734b33c543c0feed4634cebbd766e588862"
+  },
+  {
+   "path": "4321-bf6ab6c92794f4b1.js",
+   "url": "https://jup.ag/_next/static/chunks/4321-bf6ab6c92794f4b1.js",
+   "role": "resource",
+   "token": "5cfeeb9e7498ebf5d6834d70a2267fe8ba80f857"
+  },
+  {
+   "path": "6120-2a6f22cd51b0ea7a.js",
+   "url": "https://jup.ag/_next/static/chunks/6120-2a6f22cd51b0ea7a.js",
+   "role": "resource",
+   "token": "a9c567418ebcff7d777f803f622dc66db7d5763d"
+  },
+  {
+   "path": "image.png",
+   "url": "https://wsrv.nl/?w=18&h=18&url=https%3A%2F%2Fipfs.io%2Fipfs%2Fbafkreibyb3hcn7gglvdqpmklfev3fut3eqv3kje54l3to3xzxxbgpt5wjm&dpr=2&quality=80",
+   "role": "resource",
+   "token": "8abf366d7e0b853243367985219fa750bf020092"
+  },
+  {
+   "path": "image.jpg",
+   "url": "https://wsrv.nl/?w=18&h=18&url=https%3A%2F%2Farweave.net%2FVQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw&dpr=2&quality=80",
+   "role": "resource",
+   "token": "8512d66b7810ad69dfd03440084141fd487f7cca"
+  },
+  {
+   "path": "image-1.png",
+   "url": "https://wsrv.nl/?w=18&h=18&url=https%3A%2F%2Fipfs.io%2Fipfs%2FQmRtFJu3ZospaS4EAk17iNXZGAJp7gMxzvsZckZxbqZa5r&dpr=2&quality=80",
+   "role": "resource",
+   "token": "142c2203e9a3cdb7401b197dc94fa4374f105817"
+  },
+  {
+   "path": "image-2.png",
+   "url": "https://wsrv.nl/?w=18&h=18&url=https%3A%2F%2Fbafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e.ipfs.nftstorage.link%2F&dpr=2&quality=80",
+   "role": "resource",
+   "token": "f433cb6e9c13e66c2946d76395fc8059721bca01"
+  },
+  {
+   "path": "favicon.svg",
+   "url": "https://jup.ag/favicon.svg",
+   "role": "resource",
+   "token": "e55007522eadd65aead0a91a691a0031fa76ef7a"
+  },
+  {
+   "path": "webpack-8cbee78b71953105.js",
+   "url": "https://jup.ag/_next/static/chunks/webpack-8cbee78b71953105.js",
+   "role": "resource",
+   "token": "70f91b85d02db704b435890ab3198939a2e44ee7"
+  },
+  {
+   "path": "charting_library.js",
+   "url": "https://static.jup.ag/tv/charting_library/charting_library.js",
+   "role": "resource",
+   "token": "68a359b825a0b1c98038bdd3a0a62b8267426565"
+  },
+  {
+   "path": "image-1.jpg",
+   "url": "https://wsrv.nl/?w=18&h=18&url=https%3A%2F%2Farweave.net%2FhQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I&dpr=2&quality=80",
+   "role": "resource",
+   "token": "7d9e11b226c5b6e5fda9ef1c995828fa782cb8f1"
+  },
+  {
+   "path": "image-3.png",
+   "url": "https://wsrv.nl/?w=18&h=18&url=https%3A%2F%2Fipfs.io%2Fipfs%2Fbafkreihsdoqkmpr5ryebaduoutyhj3nxco6wdp4s4743l2qrae4sz4hqrm&dpr=2&quality=80",
+   "role": "resource",
+   "token": "b41b11901b49718215e21774d422834694f4a628"
+  },
+  {
+   "path": "image-4.png",
+   "url": "https://wsrv.nl/?w=18&h=18&url=https%3A%2F%2Farweave.net%2FBW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU&dpr=2&quality=80",
+   "role": "resource",
+   "token": "96b2896ffbad029f2d17ce8936de79990e099dbf"
+  },
+  {
+   "path": "image-5.png",
+   "url": "https://wsrv.nl/?w=18&h=18&url=https%3A%2F%2Fipfs.io%2Fipfs%2Fbafkreibeqt7fvgn2ubl4tha6sljnici2eus42dauxgtrdvfjf6m3vkdkoi&dpr=2&quality=80",
+   "role": "resource",
+   "token": "169d50d9e85256b87c68a196190b159c0cefddc5"
+  },
+  {
+   "path": "main-32015ff6404a8aff.js",
+   "url": "https://jup.ag/_next/static/chunks/main-32015ff6404a8aff.js",
+   "role": "resource",
+   "token": "78766aa80e579a83420701a25233e6b855d2336d"
+  },
+  {
+   "path": "1107-7db8ab5a39a04626.js",
+   "url": "https://jup.ag/_next/static/chunks/1107-7db8ab5a39a04626.js",
+   "role": "resource",
+   "token": "caf53b2bafdadb4246afeefdcfc4e0a211e234e4"
+  },
+  {
+   "path": "8559-dcc82e3f9a9d6344.js",
+   "url": "https://jup.ag/_next/static/chunks/8559-dcc82e3f9a9d6344.js",
+   "role": "resource",
+   "token": "ac5ace9b9a4af91ad4d7f24790cc62f9475e77a2"
+  },
+  {
+   "path": "_buildManifest.js",
+   "url": "https://jup.ag/_next/static/5sBhpVfmWbN4o1QbfjBMy/_buildManifest.js",
+   "role": "resource",
+   "token": "e91de5d3655b63e5f85efa38d416fb66016abc51"
+  },
+  {
+   "path": "_ssgManifest.js",
+   "url": "https://jup.ag/_next/static/5sBhpVfmWbN4o1QbfjBMy/_ssgManifest.js",
+   "role": "resource",
+   "token": "224437f51e6706083f859a146e187869493c6fa3"
+  },
+  {
+   "path": "jupiter-logo.png",
+   "url": "https://jup.ag/_next/image?url=%2Fsvg%2Fjupiter-logo.png&w=96&q=75",
+   "role": "resource",
+   "token": "c1fb11546014700a4a9b5bd92cec727b8b07722d"
+  },
+  {
+   "path": "jupiter-logo-1.png",
+   "url": "https://jup.ag/_next/image?url=%2Fsvg%2Fjupiter-logo.png&w=48&q=75",
+   "role": "resource",
+   "token": "12ac49ffcf958a9688e7c9d8d0ba25ed1bc596d2"
+  },
+  {
+   "path": "jupiter-logo-2.png",
+   "url": "https://jup.ag/_next/image?url=%2Fsvg%2Fjupiter-logo.png&w=32&q=75",
+   "role": "resource",
+   "token": "32bc6d10effd5ab12a126f7df36b3abcf7817fa2"
+  },
+  {
+   "path": "vcd15cbe7772f49c399c6a5babf22c1241717689176015.js",
+   "url": "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+   "role": "resource",
+   "token": "30ae4c5ec3f04a59c0c6ef4dc0a1f06e99308538"
+  },
+  {
+   "path": "image-6.png",
+   "url": "https://wsrv.nl/?w=18&h=18&url=https%3A%2F%2Fstatic.jup.ag%2Fjlp%2Ficon.png&dpr=2&quality=80",
+   "role": "resource",
+   "token": "c89f17e604d738964c4e5ed90cff6b90e93a165c"
+  },
+  {
+   "path": "image-7.png",
+   "url": "https://wsrv.nl/?w=18&h=18&url=https%3A%2F%2Fipfs.io%2Fipfs%2FQmWV8QgmH1gSw41yapzsFwkC8yPbzoSreAcJbzqfvo2sVq&dpr=2&quality=80",
+   "role": "resource",
+   "token": "a55e382ca0eaec0a4773067fe7f89bf5e12aaf52"
+  },
+  {
+   "path": "image-8.png",
+   "url": "https://wsrv.nl/?w=28&h=28&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolana-labs%2Ftoken-list%2Fmain%2Fassets%2Fmainnet%2FEPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v%2Flogo.png&dpr=2&quality=80",
+   "role": "resource",
+   "token": "96e6629be0f1249a199c9a7dfbed11a75ea8223c"
+  },
+  {
+   "path": "image-9.png",
+   "url": "https://wsrv.nl/?w=28&h=28&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolana-labs%2Ftoken-list%2Fmain%2Fassets%2Fmainnet%2FSo11111111111111111111111111111111111111112%2Flogo.png&dpr=2&quality=80",
+   "role": "resource",
+   "token": "7a58fced2e7e14d69f1c7bf41af5a96993ec17d7"
+  },
+  {
+   "path": "image-2.jpg",
+   "url": "https://wsrv.nl/?w=24&h=24&url=https%3A%2F%2Fstatic-create.jup.ag%2Fimages%2F5hUL8iHMXcUj9AS7yBErJmmTXyRvbdwwUqbtB2udjups&dpr=2&quality=80",
+   "role": "resource",
+   "token": "6a73594d4308206ba81592464dc920fd88d239a4"
+  },
+  {
+   "path": "image-10.png",
+   "url": "https://wsrv.nl/?w=24&h=24&url=https%3A%2F%2Fipfs.io%2Fipfs%2Fbafkreib5thwzahy3ltoghmrwuindm7h3jb5ssf3s6yygmvaxrrrc6oxkdq&dpr=2&quality=80",
+   "role": "resource",
+   "token": "795800dda9d0fedd61b1642e47573695d6ced41f"
+  },
+  {
+   "path": "image-11.png",
+   "url": "https://wsrv.nl/?w=24&h=24&url=https%3A%2F%2Fipfs.io%2Fipfs%2Fbafybeiglvoieoe4chxyu6jodwkrnj5ma3p537wmv6lkk442othwwce264i&dpr=2&quality=80",
+   "role": "resource",
+   "token": "097709dd9ca64f1c86f28fd197b2dc365f151a4e"
+  },
+  {
+   "path": "image-12.png",
+   "url": "https://wsrv.nl/?w=48&h=48&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolana-labs%2Ftoken-list%2Fmain%2Fassets%2Fmainnet%2FEPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v%2Flogo.png",
+   "role": "resource",
+   "token": "e7916ec3dda6c35014838055e4deb64f9aa2b71d"
+  },
+  {
+   "path": "image-13.png",
+   "url": "https://wsrv.nl/?w=48&h=48&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsolana-labs%2Ftoken-list%2Fmain%2Fassets%2Fmainnet%2FSo11111111111111111111111111111111111111112%2Flogo.png",
+   "role": "resource",
+   "token": "51e505f84fd97821f3adf542a4185a4a4c5dbf8f"
+  },
+  {
+   "path": "favicon-96x96.png",
+   "url": "https://jup.ag/favicon-96x96.png?v=3",
+   "role": "resource",
+   "token": "4ff9319654ea0d6c7064a370a798221a271cd59b"
+  },
+  {
+   "path": "favicon.ico",
+   "url": "https://jup.ag/favicon.ico",
+   "role": "resource",
+   "token": "c3f13d136cc3841744f7891bf81fda28b1338be5"
+  },
+  {
+   "path": "polyfills-42372ed130431b0a.js",
+   "url": "https://jup.ag/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "role": "resource",
+   "token": "eaf947ed89bb18a6f759a54bee8c0c5362431111"
+  },
+  {
+   "path": "framework-080f6417e1319e0f.js",
+   "url": "https://jup.ag/_next/static/chunks/framework-080f6417e1319e0f.js",
+   "role": "resource",
+   "token": "cebe3055940e4fac84b4c878fc0ca0c2cfefe9ef"
+  },
+  {
+   "path": "image-14.png",
+   "url": "https://wsrv.nl/?w=24&h=24&url=https%3A%2F%2Fbafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e.ipfs.nftstorage.link%2F&dpr=2&quality=80",
+   "role": "resource",
+   "token": "e9fd8fae21888d714750c4c9991cc576db07dc98"
+  },
+  {
+   "path": "image-15.png",
+   "url": "https://wsrv.nl/?w=24&h=24&url=https%3A%2F%2Fipfs.io%2Fipfs%2FQmWV8QgmH1gSw41yapzsFwkC8yPbzoSreAcJbzqfvo2sVq&dpr=2&quality=80",
+   "role": "resource",
+   "token": "d70c17360187ce87908e65851fe03a7ed73015d2"
+  },
+  {
+   "path": "image-16.png",
+   "url": "https://wsrv.nl/?w=24&h=24&url=https%3A%2F%2Farweave.net%2FBW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU&dpr=2&quality=80",
+   "role": "resource",
+   "token": "dc9af13c9902570ce1e43638ede60608af4be1d8"
+  },
+  {
+   "path": "85e0611957a15af5.css",
+   "url": "https://jup.ag/_next/static/css/85e0611957a15af5.css",
+   "role": "css-utf-8",
+   "token": "d4e77e4a5f15983d31349caa8764ace3fca2f91f"
+  },
+  {
+   "path": "8d7d3f5354d47166.css",
+   "url": "https://jup.ag/_next/static/css/8d7d3f5354d47166.css",
+   "role": "css-utf-8",
+   "token": "eeb5da159f54472382e3fc72fa5abbe86b4d3508"
+  },
+  {
+   "path": "734b4f6e22d57512b8bfadf22b01e244997964de.svg",
+   "role": "resource",
+   "token": "bd1c36862723294c8c2b5efe1fe8a0d7294f6715"
+  },
+  {
+   "path": "4c44a6d6e27a9fa9f4d26beadffa222e717ade25.svg",
+   "role": "resource",
+   "token": "2ba135db33cb6fa9983c424e5f1086577e0b58f4"
+  },
+  {
+   "path": "962944beba6bd5169f8b451b4accb67c1ea0ac7e.svg",
+   "role": "resource",
+   "token": "8c532287ee802e85f3ed38e91594e33d314d5026"
+  },
+  {
+   "path": "ac67774d7052af18526e9b77ab42fd5646ffb927.svg",
+   "role": "resource",
+   "token": "80ac4a99dcb347d1becd014f524653067a7a3263"
+  },
+  {
+   "path": "2f9488a8008fc4c28b158419a09c26c8e5742384.svg",
+   "role": "resource",
+   "token": "cd3a70154a1d94d87a01ed197581dc3181c4724e"
+  },
+  {
+   "path": "af85c300c8325b51234f631495655c1d0de772c4.svg",
+   "role": "resource",
+   "token": "0e143ed4e2fd6b84b12534a88a617e028046393c"
+  },
+  {
+   "path": "c2c6e8b2a92d34662a9bd2e23799c6ef5c890595.svg",
+   "role": "resource",
+   "token": "ff0c3d3daa4e160b7286dc0a5c536f50234cf7c0"
+  },
+  {
+   "path": "0fd1c5cfdc888a49d3ca1059eef0fc35780f80e4.svg",
+   "role": "resource",
+   "token": "9f935e1c31a999f93d4ab98765d5206adc15c779"
+  },
+  {
+   "path": "5a83d15c27d21780125037f5967440d6749f9b15.svg",
+   "role": "resource",
+   "token": "a8462915f71a2f37604d509cac424b41d870d7b0"
+  },
+  {
+   "path": "24bc9ef56f98902716bff680bc4ac1e6acf49852.svg",
+   "role": "resource",
+   "token": "67997f737ae48bd3b5fe9918c9bb79dac6c07956"
+  },
+  {
+   "path": "0ec03340e4b381da9ddf902b04cda41fd583cf5c.svg",
+   "role": "resource",
+   "token": "d791f1c60f3522b4afc0d6c78c98e7e263573202"
+  },
+  {
+   "path": "index_1.html",
+   "url": "https://privy.jup.ag/apps/cm8pkejey0052l1ljvgxjztau/embedded-wallets?caid=7c273df2-567c-4304-b1e9-0e2402803cc6",
+   "role": "document-39646b46-a96c-408c-977c-fd15bc6c46a7",
+   "token": "48d2c1ddc2e535eb5256ec100701538acab40dcf"
+  },
+  {
+   "path": "index_1.xhtml",
+   "role": "document-39646b46-a96c-408c-977c-fd15bc6c46a7"
+  },
+  {
+   "path": "index_1.svg",
+   "role": "document-39646b46-a96c-408c-977c-fd15bc6c46a7"
+  },
+  {
+   "path": "webpack-97930f1c6ccb10fe.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/webpack-97930f1c6ccb10fe.js",
+   "role": "resource",
+   "token": "7bd86c18cd25abf7be196bfe7866d4f97f05f5c0"
+  },
+  {
+   "path": "2181-df982a350789d663.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/2181-df982a350789d663.js",
+   "role": "resource",
+   "token": "0d787d23c13bc27280dd44c67d9876ce8c0dbeac"
+  },
+  {
+   "path": "dfdb0ed2c0aebf09.css",
+   "url": "https://privy.jup.ag/_next/static/css/dfdb0ed2c0aebf09.css",
+   "role": "css-utf-8",
+   "token": "25284ef9a395e7fb87cfbf4e7601b3289a18c856"
+  },
+  {
+   "path": "framework-346393ae8ff8fb73.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/framework-346393ae8ff8fb73.js",
+   "role": "resource",
+   "token": "2745563a35594436b5e3c9d343ea15191ff6c48b"
+  },
+  {
+   "path": "_buildManifest-1.js",
+   "url": "https://privy.jup.ag/_next/static/1AimIRlmxaS9tv-ICrwUG/_buildManifest.js",
+   "role": "resource",
+   "token": "c2bc01b4ac39ad88fc1758e44cdb8e019dfd7b09"
+  },
+  {
+   "path": "8194-33aa3768b64a5812.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/8194-33aa3768b64a5812.js",
+   "role": "resource",
+   "token": "eb01db3c2605f056bfa8d429ed0e64cb5acc4c52"
+  },
+  {
+   "path": "1078-9e8c424305c55261.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/1078-9e8c424305c55261.js",
+   "role": "resource",
+   "token": "c60a7e7885737dd312c84723316105a231680cd3"
+  },
+  {
+   "path": "_app-efb918256849879f.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/pages/_app-efb918256849879f.js",
+   "role": "resource",
+   "token": "031ae6c949c830197532dae37c40c568fc952199"
+  },
+  {
+   "path": "0a2f9709-99e1b9ddcf017fe1.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/0a2f9709-99e1b9ddcf017fe1.js",
+   "role": "resource",
+   "token": "5ae6b179ae1872681e27bece89c4c1207e7dbdd8"
+  },
+  {
+   "path": "main-2559e22e1fb0facd.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/main-2559e22e1fb0facd.js",
+   "role": "resource",
+   "token": "a265dc8ce781817551db82b427ac5a728b7f69f1"
+  },
+  {
+   "path": "1040-b58e14cea464eaff.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/1040-b58e14cea464eaff.js",
+   "role": "resource",
+   "token": "03fc4a737335541bf4381e074c3245a47c5b2d49"
+  },
+  {
+   "path": "polyfills-42372ed130431b0a-1.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "role": "resource",
+   "token": "6c62fcebb83305c8b3db28558277206549926757"
+  },
+  {
+   "path": "7353-c346e0b5d85e5368.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/7353-c346e0b5d85e5368.js",
+   "role": "resource",
+   "token": "3af235dd477cdb38b95477173241a6d3bfa4414b"
+  },
+  {
+   "path": "741-468ba25199e7d6c5.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/741-468ba25199e7d6c5.js",
+   "role": "resource",
+   "token": "1e5c87e567d854e349b2c1b24f818522fad63fd9"
+  },
+  {
+   "path": "4251-07a543dd29ed1a4f.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/4251-07a543dd29ed1a4f.js",
+   "role": "resource",
+   "token": "f340a425a96f95447c12ac360162f095539ac1e3"
+  },
+  {
+   "path": "8420-6591f24bf5f99e94.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/8420-6591f24bf5f99e94.js",
+   "role": "resource",
+   "token": "8b38bebcbab00186e5cef6d4a52bb45b74b78691"
+  },
+  {
+   "path": "8825-54ab5f48d8447e4b.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/8825-54ab5f48d8447e4b.js",
+   "role": "resource",
+   "token": "c0fabcda057842d0cc22d09d71979138d50c9ae0"
+  },
+  {
+   "path": "embedded-wallets-d442a7397b4ef891.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/pages/apps/%5Bapp_id%5D/embedded-wallets-d442a7397b4ef891.js",
+   "role": "resource",
+   "token": "9180be9f3c9c192f6112d1ca0d6b1844c3850adf"
+  },
+  {
+   "path": "_ssgManifest-1.js",
+   "url": "https://privy.jup.ag/_next/static/1AimIRlmxaS9tv-ICrwUG/_ssgManifest.js",
+   "role": "resource",
+   "token": "8811efffb68999873862237535df134cec10df2a"
+  },
+  {
+   "path": "4005-eb04ec06966af46b.js",
+   "url": "https://privy.jup.ag/_next/static/chunks/4005-eb04ec06966af46b.js",
+   "role": "resource",
+   "token": "9149a423220558ea20379f8f05a22dc776d8a8fb"
+  },
+  {
+   "path": "lib-18360ab239218e51.js",
+   "url": "https://jup.ag/_next/static/chunks/lib-18360ab239218e51.js",
+   "role": "resource",
+   "token": "4bc4e84daf55003cfd0fa344c90082c98b4130c8"
+  },
+  {
+   "path": "verification-v4.jpg",
+   "url": "https://jup.ag/_next/image?url=https%3A%2F%2Fstatic.jup.ag%2Fbanner%2Fverification-v4%2Fverification-v4.jpg&w=2048&q=100",
+   "role": "resource",
+   "token": "a21ec12addf20a541b55f5961f06006954f2a59b"
+  },
+  {
+   "path": "verify-8a8668e17d7f7783.js",
+   "url": "https://jup.ag/_next/static/chunks/pages/verify-8a8668e17d7f7783.js",
+   "role": "resource",
+   "token": "5286909bf5597719614d7c5286893ca23ed25ea6"
+  },
+  {
+   "path": "1406-f98b11be8b3ed4a8.js",
+   "url": "https://jup.ag/_next/static/chunks/1406-f98b11be8b3ed4a8.js",
+   "role": "resource",
+   "token": "bb465fc3cf338ebc45de74c541db467ae2becdb1"
+  },
+  {
+   "path": "watchlist-b46b32d6b0730c63.js",
+   "url": "https://jup.ag/_next/static/chunks/pages/watchlist-b46b32d6b0730c63.js",
+   "role": "resource",
+   "token": "2ef487b388963f5e654272e42d381f271f6decd8"
+  },
+  {
+   "path": "normal.woff2",
+   "url": "https://jup.ag/cf-fonts/v/inter/5.0.16/latin/wght/normal.woff2",
+   "role": "resource",
+   "token": "b0719fe7e68f4cfc2e0365253edc60230ae14e4f"
+  },
+  {
+   "path": "normal-1.woff2",
+   "url": "https://jup.ag/cf-fonts/v/inter/5.0.16/cyrillic-ext/wght/normal.woff2",
+   "role": "resource",
+   "token": "f5250f1ac2beb26fe067c399e4b6cd82f6bd7a59"
+  },
+  {
+   "path": "_app-4c530427db9b5de1.js",
+   "url": "https://jup.ag/_next/static/chunks/pages/_app-4c530427db9b5de1.js",
+   "role": "resource",
+   "token": "7baadc73325351fbd8af2178ff972e352cd5fb9c"
+  },
+  {
+   "path": "8653-f5f2332a748fdd30.js",
+   "url": "https://jup.ag/_next/static/chunks/8653-f5f2332a748fdd30.js",
+   "role": "resource",
+   "token": "07a9b6b73c4e6491c82e8e1db3b329de0399263a"
+  },
+  {
+   "path": "7651-bc098e02e471eaec.js",
+   "url": "https://jup.ag/_next/static/chunks/7651-bc098e02e471eaec.js",
+   "role": "resource",
+   "token": "68a322fd731afd796c50ec0003f5d07c9b6f9e5e"
+  },
+  {
+   "path": "4958-90e1e08076c8d26c.js",
+   "url": "https://jup.ag/_next/static/chunks/4958-90e1e08076c8d26c.js",
+   "role": "resource",
+   "token": "212a5d8ad7beb646220c20d4e5df76e5cec9838a"
+  },
+  {
+   "path": "index-3cc60720b037a0ca.js",
+   "url": "https://jup.ag/_next/static/chunks/pages/index-3cc60720b037a0ca.js",
+   "role": "resource",
+   "token": "a71ccd55270476a22c13a50fc89c392f8b240b7a"
+  },
+  {
+   "path": "verification-v4-1.jpg",
+   "url": "https://jup.ag/_next/image?url=https%3A%2F%2Fstatic.jup.ag%2Fbanner%2Fverification-v4%2Fverification-v4.jpg&w=640&q=100",
+   "role": "resource",
+   "token": "1917447417451d94aed24a6b9ff0449035230173"
+  },
+  {
+   "path": "verification-v4-2.jpg",
+   "url": "https://jup.ag/_next/image?url=https%3A%2F%2Fstatic.jup.ag%2Fbanner%2Fverification-v4%2Fverification-v4.jpg&w=750&q=100",
+   "role": "resource",
+   "token": "2d453c8ca110e724c6593b64515ea03928f898a8"
+  },
+  {
+   "path": "verification-v4-3.jpg",
+   "url": "https://jup.ag/_next/image?url=https%3A%2F%2Fstatic.jup.ag%2Fbanner%2Fverification-v4%2Fverification-v4.jpg&w=828&q=100",
+   "role": "resource",
+   "token": "ddf124f39c8465a1620c5035fd050ac1a71c1acb"
+  },
+  {
+   "path": "verification-v4-4.jpg",
+   "url": "https://jup.ag/_next/image?url=https%3A%2F%2Fstatic.jup.ag%2Fbanner%2Fverification-v4%2Fverification-v4.jpg&w=1080&q=100",
+   "role": "resource",
+   "token": "5c955f5186d58222165f7bf8773377206e616902"
+  },
+  {
+   "path": "verification-v4-5.jpg",
+   "url": "https://jup.ag/_next/image?url=https%3A%2F%2Fstatic.jup.ag%2Fbanner%2Fverification-v4%2Fverification-v4.jpg&w=1200&q=100",
+   "role": "resource",
+   "token": "d0fd12f7264ae7a566e46abbe7dc35cf02055d09"
+  },
+  {
+   "path": "verification-v4-6.jpg",
+   "url": "https://jup.ag/_next/image?url=https%3A%2F%2Fstatic.jup.ag%2Fbanner%2Fverification-v4%2Fverification-v4.jpg&w=1920&q=100",
+   "role": "resource",
+   "token": "c5c2b64bee0eac8d92a83b13be2f570f751de1c8"
+  },
+  {
+   "path": "3022-c3ce1be6c3c585e1.js",
+   "url": "https://jup.ag/_next/static/chunks/3022-c3ce1be6c3c585e1.js",
+   "role": "resource",
+   "token": "eb4365c95609c557fddffa3089c246e623d50c63"
+  },
+  {
+   "path": "8754-8eca57768f744c61.js",
+   "url": "https://jup.ag/_next/static/chunks/8754-8eca57768f744c61.js",
+   "role": "resource",
+   "token": "6d2fbfb470e6d01a7becab4aef43c3cfc504e439"
+  },
+  {
+   "path": "2295-0f3a4de9e5fe18a4.js",
+   "url": "https://jup.ag/_next/static/chunks/2295-0f3a4de9e5fe18a4.js",
+   "role": "resource",
+   "token": "f18a291855a8e980f8a74e4d6a4f0ba6c4fc8057"
+  },
+  {
+   "path": "[tokenId]-a814ef1a312a819c.js",
+   "url": "https://jup.ag/_next/static/chunks/pages/tokens/%5BtokenId%5D-a814ef1a312a819c.js",
+   "role": "resource",
+   "token": "2a58ba5648c1f0a2d8d65a190425b563d3ecb70a"
+  },
+  {
+   "path": "normal-2.woff2",
+   "url": "https://jup.ag/cf-fonts/v/inter/5.0.16/cyrillic/wght/normal.woff2",
+   "role": "resource",
+   "token": "f1784658c97bbcdde448bb6216a59be059e5e7dd"
+  },
+  {
+   "path": "normal-3.woff2",
+   "url": "https://jup.ag/cf-fonts/v/inter/5.0.16/greek-ext/wght/normal.woff2",
+   "role": "resource",
+   "token": "7047e9b4440904afc8e4cdab7f2a287ea49a0b08"
+  },
+  {
+   "path": "normal-4.woff2",
+   "url": "https://jup.ag/cf-fonts/v/inter/5.0.16/greek/wght/normal.woff2",
+   "role": "resource",
+   "token": "39a046fc43157313f36b69c9534ca6daf636b329"
+  },
+  {
+   "path": "normal-5.woff2",
+   "url": "https://jup.ag/cf-fonts/v/inter/5.0.16/latin-ext/wght/normal.woff2",
+   "role": "resource",
+   "token": "3cb20a06435efc7b3bc4aa5c7f31b15af34ea1f9"
+  },
+  {
+   "path": "normal-6.woff2",
+   "url": "https://jup.ag/cf-fonts/v/inter/5.0.16/vietnamese/wght/normal.woff2",
+   "role": "resource",
+   "token": "4aad3b927b04de81cfadada3298551bae8bfebce"
+  },
+  {
+   "path": "verification-v4-7.jpg",
+   "url": "https://jup.ag/_next/image?url=https%3A%2F%2Fstatic.jup.ag%2Fbanner%2Fverification-v4%2Fverification-v4.jpg&w=3840&q=100",
+   "role": "resource",
+   "token": "68477a06cbefc8d601e0d80cf45fa1a91e6212d7"
+  }
+ ]
+}
